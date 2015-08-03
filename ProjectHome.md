@@ -1,0 +1,1 @@
+A tool that dumps topics/words from wordnet
